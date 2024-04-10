@@ -1,5 +1,5 @@
 # HoudiniTools
-<img src="../kylelinvfx/kylelinvfx_logo.png" alt="kylelinvfx" width="200"/>
+<img src="kylelinvfx_logo.png" alt="kylelinvfx" width="200"/>
 
 ## About
  **HoudiniTools** is a repository of the HDAs and Shelf tools I created. 
